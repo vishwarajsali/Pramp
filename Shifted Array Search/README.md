@@ -15,7 +15,7 @@ input:  shiftArr = [9, 12, 17, 2, 4, 5], num = 2 # shiftArr is the
 output: 3 # since it’s the index of 2 in arr
 Constraints:
 
-[time limit] 5000ms
-[input] array.integer arr
-[input] integer num
-[output] integer
+* [time limit] 5000ms
+* [input] array.integer arr
+* [input] integer num
+* [output] integer
