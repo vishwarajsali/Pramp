@@ -12,7 +12,7 @@ class Solution {
     int s1 = str1.length();
     int s2 = str2.length();
     
-    int[][] dp = new int[s1+1][s2+1];
+    int[][] dp = new int[s1][s2];
     
     for(int i =0; i< s1; i++){
       for(int j = 0; j< s2; j++){
